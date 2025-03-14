@@ -5,3 +5,5 @@ scikit-learn
 tensorflow
 keras
 streamlit
+pymysql
+python-dotenv
